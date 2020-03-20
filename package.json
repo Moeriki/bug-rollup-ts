@@ -1,0 +1,7 @@
+{
+  "name": "bug-rollup-ts",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Dieter Luypaert <dieterluypaert@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@modules/package2",
+  "version": "1.0.0",
+  "author": "Dieter Luypaert <dieterluypaert@gmail.com>",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "devDependencies": {
+    "@types/node": "13.9.2",
+    "tslib": "1.11.1"
+  }
+}
